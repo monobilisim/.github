@@ -19,14 +19,10 @@
 </ul>
 <br>
 
-<h2>Özgür yazılım iş modeli</h2>
-<li>Genel kanının aksine özgür bir yazılım, ücretsiz dağıtılabileceği gibi ücretli de dağıtılabilir. Bu nedenle ticari yazılım olarak satılmasına engel yoktur. Özgür yazılım iş modelinde, yazılım satışı yerine kurulum, eğitim, yönetim, danışmanlık, destek ve yazılım geliştirme hizmetlerinde para kazanılır. Özgür yazılım iş modeli emek odaklı bir yaklaşımdır. Sahipli yazılımlarda ancak elinize bir kâğıt parçası (lisans) geçerken, özgür yazılım iş modeli bunun yerine size destek olan bir ekip sunar.</li>
-<br>
+<h2>Bazı Projelerimiz</h2>
 
-<h2>Özgür yazılımın Türkiye’ye faydası</h2>
-<ol>
-    <li>Bilişim ithalatı azaltır, ulusal kaynaklar ile çözüm üretme imkânı sağlar.</li>
-    <li>Şirketler sahipli yazılım lisanstan tasarruf eder. Lisansa para ödemek yerine ihtiyacı olan yazılımın destek ve hizmetini alır.</li>
-    <li>Bilişim alanında uzmanlaşmayı artırır. Size markayı değil, çözümün kendisini öğretir.</li>
-    <li>Bilişim eğitimini özgürleştirir. Sahipli yazılımların eğitimi bilişimciyi markanın satış temsilcisi haline getirmektedir.</li>
-</ol>
+[whatsapp-ws](https://github.com/monobilisim/whatsapp-ws): WhatsApp özelliklerini entegre etmek ve programlı eylemler gerçekleştirmek için kullanılır.\
+[log-browser](https://github.com/monobilisim/log_browser): pfsense üzerinde günlük dosyalarını incelemekte kullanılır.\
+[pfsense-5651](https://github.com/monobilisim/pfsense-5651): 5651 sayılı kanuna göre, hazırlanmış günlük dosyalarını imzalarken kullanılır.\
+[pgsql-backup](https://github.com/monobilisim/pgsql-backup): PostgreSQL yedeklerini MinIO veya S3'e yedekleyen ve Mattermost veya Email ile bilgilendirmekte kullanılır.\
+[wmi-rest](https://github.com/monobilisim/wmi-rest): Windows makinede Hyper-V sanal makinelerinin bilgilerini REST API'ya dönüştüren program.
