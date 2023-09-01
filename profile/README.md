@@ -1,4 +1,4 @@
-<hr><div align="center">
+<div align="center">
 <a href="https://mono.net.tr/">
   <img src="https://monobilisim.com.tr/images/mono-bilisim.svg" width="340"/>
 </a>
