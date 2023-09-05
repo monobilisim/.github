@@ -25,4 +25,4 @@
 - [log-browser](https://github.com/monobilisim/log_browser): pfsense üzerinde günlük dosyalarını incelemekte kullanılır.
 - [pfsense-5651](https://github.com/monobilisim/pfsense-5651): 5651 sayılı kanuna göre, hazırlanmış günlük dosyalarını imzalarken kullanılır.
 - [pgsql-backup](https://github.com/monobilisim/pgsql-backup): PostgreSQL yedeklerini MinIO veya S3'e yedekler ve Mattermost veya Email ile bilgilendirir.
-- [wmi-rest](https://github.com/monobilisim/wmi-rest): Windows makinede Hyper-V sanal makinelerinin bilgilerini REST API'ya dönüştürür.
+- [hyper-v-api-ps](https://github.com/monobilisim/hyper-v-api-ps): Windows makinede Hyper-V sanal makinelerinin bilgilerini REST API'ya dönüştürür.
